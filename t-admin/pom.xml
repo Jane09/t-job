@@ -11,5 +11,14 @@
 
     <artifactId>t-admin</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>groupId</groupId>
+            <artifactId>t-core</artifactId>
+        </dependency>
+    </dependencies>
 </project>
