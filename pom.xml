@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>t-core</module>
+        <module>t-admin</module>
+        <module>t-client</module>
+        <module>t-router</module>
+        <module>t-executor</module>
     </modules>
 
     <parent>
