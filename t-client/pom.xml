@@ -11,5 +11,10 @@
 
     <artifactId>t-client</artifactId>
 
-
+    <dependencies>
+        <dependency>
+            <groupId>groupId</groupId>
+            <artifactId>t-core</artifactId>
+        </dependency>
+    </dependencies>
 </project>
