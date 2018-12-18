@@ -38,7 +38,7 @@ public abstract class AbstractRemote {
     }
 
     public void processRequestCommand(final Channel channel, final RemoteCommand command) {
-        
+
     }
 
 
